@@ -1,0 +1,14 @@
+{
+  "mysql": {
+     "host": "localhost",
+     "username": "root",
+     "password": "",
+     "database": "db_chat",
+     "logging": true,
+     "sync": false
+  },
+  "site": {
+     "port": 3333,
+     "secret": "EndLess"
+  }
+}
